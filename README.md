@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💬 Ask me about **Solidity**, no-one else 😄.
+- 💬 Ask me about **Solidity**.
 - 🌱 Place I want to visit, **The UK**, all of it
 - 📫 Let's connect, Let's fly, **[Let's mail](daphicx@gmail.com)**.
 
