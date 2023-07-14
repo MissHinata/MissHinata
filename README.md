@@ -1,16 +1,17 @@
 ### Hi there 👋
-- 💬 Ask me about **Solidity**.
+- 💬 Ask me about **Mobile App Development**.
 - 🌱 Place I want to visit, **UK**, all of it
 - 📫 Let's connect, and share
 <div align=center>
-  
+    
+<hr width="85%"> 
+
+<img width=80% height=250 src="https://github.com/NooglerBytes/NooglerBytes/assets/102696705/bc01614f-c9ab-4b79-88ff-768ed1c2d9b8">
   <hr>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NooglerBytes&theme=omni&am&layout=compact&langs_count=10)](https://github.com/MsHinata/github-readme-stats)  
   
-<hr width="35%"> 
-
-<img width=200 height=200 src="https://user-images.githubusercontent.com/77758884/156876700-2967a25d-56e2-4664-a9e6-53f88503f517.png">
+<hr width="85%"> 
 
   
   </div>
