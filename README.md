@@ -10,6 +10,8 @@
   <hr>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NooglerBytes&theme=omni&am&layout=compact&langs_count=10)](https://github.com/MsHinata/github-readme-stats)  
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=NooglerBytes&theme=dracular)](https://git.io/streak-stats)
   
 <hr width="85%"> 
 
